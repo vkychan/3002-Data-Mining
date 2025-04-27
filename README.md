@@ -1,4 +1,4 @@
-# 3002-Data-Mining Group Project README
+# SDSC3002-Data Mining Group Project README
 
 This repository contains the code and datasets for our group project (SDSC 3002 Data Mining Group 2) focusing on frequent pattern mining (FPM) methods.
 
